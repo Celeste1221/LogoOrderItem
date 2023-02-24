@@ -1,4 +1,3 @@
-﻿//Programmer: Celeste Fischer
 //ColorGraphicLogo.cs
 
 namespace FischerP3
