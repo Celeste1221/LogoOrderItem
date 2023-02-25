@@ -1,4 +1,3 @@
-﻿//Programmer: Celeste Fischer
 //Mug.cs
 
 namespace FischerP3
