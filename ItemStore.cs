@@ -1,4 +1,3 @@
-﻿//Programmer: Celeste Fischer
 //ItemStore.cs
 
 using System;
