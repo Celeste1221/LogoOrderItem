@@ -1,4 +1,3 @@
-﻿//Programmer: Celeste Fischer
 //Pen.cs
 
 namespace FischerP3
